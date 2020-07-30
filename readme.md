@@ -4,11 +4,15 @@ Let's get started!
 
 First: - Get Gnome-tweak-tool by doing : -
 
+'''
 sudo apt-get install gnome-tweak-tool
+'''
 
 Then clone this repo by doing -
 
+'''
 git clone https://github.com/rexiscodin/nordic-theming.git
+'''
 
 While that is happening, open up gnome extensions on a browser. Then install the browser extension by clicking on the pop up that comes up.
 
@@ -20,11 +24,15 @@ Then, cd into the nord-gnome-terminal/src folder, and do ./nord.sh.
 
 Then go to your settings and select the newly created nordic theme. Before restarting your terminal, do -
 
+'''
 sudo apt install neofetch
+'''
 
 then do -
 
+'''
 sudo nano ~/.bashrc
+'''
 
 scroll all the way down and then at the bottom of the file press enter and then add neofetch. Then do Ctrl+x, y and enter.
 
