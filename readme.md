@@ -1,6 +1,7 @@
 Want to make your desktop look like this?
-![Image]
-(https://i.imgur.com/L2JdEXC.png)
+
+
+![Image](https://i.imgur.com/L2JdEXC.png)
 
 This is a guide for setting up a linux environment, with nordic dark theming, nordic icons, dash to dock, nord-gnome-terminal, neofetch.
 
