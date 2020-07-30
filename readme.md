@@ -7,7 +7,8 @@ First: - Get Gnome-tweak-tool by doing : -
 sudo apt-get install gnome-tweak-tool
 
 Then clone this repo by doing -
-git clone
+
+git clone https://github.com/rexiscodin/nordic-theming.git
 
 While that is happening, open up gnome extensions on a browser. Then install the browser extension by clicking on the pop up that comes up.
 
