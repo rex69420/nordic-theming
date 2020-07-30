@@ -25,7 +25,7 @@ Then, cd into the nord-gnome-terminal/src folder, and do ./nord.sh.
 Then go to your settings and select the newly created nordic theme. Before restarting your terminal, do -
 
 ```
-sudo apt install neofetch
+sudo apt-get install neofetch
 ```
 
 then do -
