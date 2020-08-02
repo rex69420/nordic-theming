@@ -23,7 +23,7 @@ While that is happening, open up gnome extensions on a browser. Then install the
 
 Then search up 2 extensions, Dash to Dock and User Themes to load shell themes from the user directory.
 
-When that is done, go to your file manager and go to your home directory. Then do ctrl+h to see the hidden files. If you don't see .themes and .icons folders, then create them. Then copy the Nordic-darker-standard-buttons folder to .themes and then copy the Nordic-Darker and Nordic folder to .icons. After that is done open Tweaks, go to appearance and select the nordic-darker-standard-buttons in themes and nordic-icons in icons, and nordic in shell as well. While you're in there you can even configure your dash to dock.
+When that is done, go to your file manager and go to your home directory. Then do ctrl+h to see the hidden files. If you don't see .themes and .icons folders, then create them. Then copy the Nordic-darker-standard-buttons folder to .themes and then copy the Nordic-Darker, Zafiro-icons and Nordic folder to .icons. After that is done open Tweaks, go to appearance and select the nordic-darker-standard-buttons in themes and nordic-icons in icons, and nordic in shell as well. While you're in there you can even configure your dash to dock.
 
 Then, cd into the nord-gnome-terminal/src folder, and do ./nord.sh.
 
