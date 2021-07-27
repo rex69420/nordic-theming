@@ -7,7 +7,7 @@ This is a guide for setting up a linux environment, with nordic dark theming, no
 
 Let's get started!
 
-First: - Get Gnome-tweak-tool by doing : -
+First: - Get Gnome-tweak-tool by doing: -
 
 ```
 sudo apt-get install gnome-tweak-tool
@@ -39,6 +39,6 @@ then do -
 sudo nano ~/.bashrc
 ```
 
-scroll all the way down and then at the bottom of the file press enter and then add neofetch. Then do Ctrl+x, y and enter.
+scroll all the way down and then at the bottom of the file press enter and then add neofetch. Then do CTRL + x, y and enter.
 
 After that is done, do a quick restart and everything shold be the way you want it to be.
